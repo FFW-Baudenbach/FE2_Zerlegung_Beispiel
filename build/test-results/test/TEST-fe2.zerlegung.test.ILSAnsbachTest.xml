@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fe2.zerlegung.test.ILSAnsbachTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-11-14T19:06:04" hostname="markus-desktop" time="0.0">
+  <properties/>
+  <testcase name="test" classname="fe2.zerlegung.test.ILSAnsbachTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
