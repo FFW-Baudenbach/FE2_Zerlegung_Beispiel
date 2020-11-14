@@ -1,4 +1,4 @@
-package fe2.zerlegung;
+package de.alamos.fe2.external.impl;
 
 import java.util.HashMap;
 import java.util.Map;

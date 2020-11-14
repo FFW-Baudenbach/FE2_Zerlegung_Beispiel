@@ -1,10 +1,10 @@
-package fe2.zerlegung.test;
+package de.alamos.fe2.external.impl.test;
 
 import static org.junit.Assert.assertEquals;
 
 import java.util.Map;
 
-import fe2.zerlegung.ILSAnsbach;
+import de.alamos.fe2.external.impl.ILSAnsbach;
 import org.junit.Ignore;
 import org.junit.Test;
 
