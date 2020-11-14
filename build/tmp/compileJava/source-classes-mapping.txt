@@ -1,2 +1,0 @@
-fe2/zerlegung/ILSAnsbach.java
- fe2.zerlegung.ILSAnsbach
