@@ -7,7 +7,7 @@ import de.alamos.fe2.external.enums.EAlarmDataEntries;
 import de.alamos.fe2.external.interfaces.IAlarmExtractor;
 
 /**
- * Zerlegung für Alarmfax der ILS Ansbach.
+ * Template für eigene Entwicklung von Zerlegungen für Alamos FE2.
  */
 public class Beispiel implements IAlarmExtractor {
 
